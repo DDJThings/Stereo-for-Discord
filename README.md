@@ -30,7 +30,12 @@ If you need any support feel free to join my discord [Here](https://discord.gg/3
 
 
 ### Next Steps:
-* Open your **User Settings** (the cog next to your name), 
+* Open your **User Settings** (the cog next to your name),
+* Update your voice settings to the following:
+- Change your Input/Output Devices
+- Echo Cancellation: Off
+- Noise Suppression: Off
+- Automatic Gain Control: Off
 * navigate to the **Plugins** tab (near the bottom), 
 * Click the **Open Plugins Folder** button at the top, 
 * Drag and drop **Stereo.plugin.js** (that you downloaded earlier) into your plugins folder. 
