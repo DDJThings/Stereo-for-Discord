@@ -14,6 +14,12 @@ If you need any support feel free to join my discord [Here](https://discord.gg/3
 
 #
 
+### Run the Discord PTB.exe inside of "app-0.0.51"
+* Wait for it to install and update.
+* THIS IS **CRUCIAL**.
+
+#
+
 ### Download BandagedBD [here](https://github.com/rauenzi/BetterDiscordApp/releases)
 * Alternative Link: https://github.com/rauenzi/BetterDiscordApp/releases
 * Bandaged Better Discord is a fixed version of the original BetterDiscord
