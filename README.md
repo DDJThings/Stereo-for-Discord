@@ -44,7 +44,7 @@ If you need any support feel free to join my discord [Here](https://discord.gg/3
 #
 
 And now, for the hardest steps.
-* Check it, as in turn it on
+* Check it, as in turn it on in your plugins tab
 * Reload your discord (ctrl + r)
 
 Boom
