@@ -12,7 +12,7 @@ If you need any support feel free to join my discord [Here](https://discord.gg/3
 * You will need version 0.0.51
 * Version 0.0.51 is avilable [here in a rar file](https://mega.nz/file/nihl3Aib#OY41AzlVZz96s7EAAEkyI-1G5Ky-OYtkSI9RMVJKUNk)
 
-*
+------------------
 
 ### Download BandagedBD [here](https://github.com/rauenzi/BetterDiscordApp/releases)
 * Alternative Link: https://github.com/rauenzi/BetterDiscordApp/releases
