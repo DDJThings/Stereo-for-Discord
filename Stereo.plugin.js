@@ -1,7 +1,18 @@
-//META{"name":"stereoSound","displayName":"StereoAudio","website":"https://github.com/dylandotjava","source":"https://github.com/dylandotjava","invite":"https://discord.gg/8jrWegqpnC"}*//
+/**
+ * @name StereoSound
+ * @version 1.2.1
+ * @description Stereo Sound plugin for BDD.
+ * @author DylanDotJava
+ * @authorId 755082787974807692
+ * @website https://github.com/dylandotjava/Stereo-for-discord
+ * @updateUrl https://raw.githubusercontent.com/dylandotjava/Stereo-for-discord/main/Stereo.plugin.js
+ * @donate https://donate.teenagecancertrust.org/
+ * @invite MWVTdteywp
+ */
 
 
-var stereoSound = function () {
+
+var StereoSound = function () {
 
 	let VoiceConnection = BDV2.WebpackModules.findByUniqueProperties(['getVoiceEngine']).getVoiceEngine().VoiceConnection;
 
@@ -132,12 +143,6 @@ var stereoSound = function () {
 
 
 	return class _ {
-		getName() { return "Stereo Audio" }
-		getDescription() { return "New working Stereo Audio plugin for BetterDiscord!" }
-		getAuthor() { return "DylanDotJava (github)" }
-		getVersion() { return "1.2.1" }
-		getInvite() { return "https://discord.gg/8jrWegqpnC" }
-
 		load() { }
 
 		start() {
