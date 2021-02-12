@@ -24,8 +24,8 @@ If you need any support feel free to join my discord [Here](https://discord.gg/3
 
 
 
-### Download the latest release of this plugin (link to be added)
-* Link to be added, Give me 2 seconds
+### [Download the latest release of this plugin](https://github.com/dylandotjava/Stereo-for-discord/releases)
+* Grab the ".js" file.
 
 
 
