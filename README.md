@@ -5,8 +5,8 @@ If you need any support feel free to join my discord [Here](https://discord.gg/3
 
 # How to Install
 
-### Download Discord PTB [here](https://discordapp.com/api/download/ptb?platform=win)
-* Alternative Link: https://discordapp.com/api/download/ptb?platform=win
+### Download Discord PTB
+* Latest Build (for future fix): https://discordapp.com/api/download/ptb?platform=win
 * This is the Discord Public Test Build and is made by Discord themselves.
 * You will not get banned for using the PTB, Nor is it a virus.
 * You will need version 0.0.51
