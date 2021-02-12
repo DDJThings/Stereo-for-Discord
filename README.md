@@ -5,6 +5,8 @@ If you need any support feel free to join my discord [Here](https://discord.gg/3
 
 # How to Install
 
+------------------
+
 ### Download Discord PTB
 * Latest Build (for future fix): https://discordapp.com/api/download/ptb?platform=win
 * This is the Discord Public Test Build and is made by Discord themselves.
