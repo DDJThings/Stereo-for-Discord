@@ -5,7 +5,7 @@ If you need any support feel free to join my discord [Here](https://discord.gg/3
 
 # How to Install
 
-### Download Discord PTB [Here](https://discordapp.com/api/download/ptb?platform=win)
+### Download Discord PTB [here](https://discordapp.com/api/download/ptb?platform=win)
 * Alternative Link: https://discordapp.com/api/download/ptb?platform=win
 * This is the Discord Public Test Build and is made by Discord themselves.
 * You will not get banned for using the PTB, Nor is it a virus.
@@ -14,7 +14,7 @@ If you need any support feel free to join my discord [Here](https://discord.gg/3
 
 
 
-### Download BandagedBD [Here](https://github.com/rauenzi/BetterDiscordApp/releases)
+### Download BandagedBD [here](https://github.com/rauenzi/BetterDiscordApp/releases)
 * Alternative Link: https://github.com/rauenzi/BetterDiscordApp/releases
 * Bandaged Better Discord is a fixed version of the original BetterDiscord
 
