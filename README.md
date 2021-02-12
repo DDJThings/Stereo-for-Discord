@@ -12,23 +12,23 @@ If you need any support feel free to join my discord [Here](https://discord.gg/3
 * You will need version 0.0.51
 * Version 0.0.51 is avilable [here](https://github.com/portapps/discord-ptb-portable/releases/tag/0.0.51-7)
 
-
+*
 
 ### Download BandagedBD [here](https://github.com/rauenzi/BetterDiscordApp/releases)
 * Alternative Link: https://github.com/rauenzi/BetterDiscordApp/releases
 * Bandaged Better Discord is a fixed version of the original BetterDiscord
 
-
+*
 
 ### Run the BandagedBD Installer, check the **Install to PTB** option
 * Click on the "install" option in the menu, and then click on the "Install to PTB" option.
 
-
+*
 
 ### [Download the latest release of this plugin](https://github.com/dylandotjava/Stereo-for-discord/releases)
 * Grab the ".js" file.
 
-
+*
 
 ### Next Steps:
 * Open your **User Settings** (the cog next to your name),
@@ -41,7 +41,7 @@ If you need any support feel free to join my discord [Here](https://discord.gg/3
 * Click the **Open Plugins Folder** button at the top, 
 * Drag and drop **Stereo.plugin.js** (that you downloaded earlier) into your plugins folder. 
 
-
+*
 
 And now, for the hardest steps.
 * Check it, as in turn it on
