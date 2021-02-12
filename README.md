@@ -10,6 +10,7 @@ If you need any support feel free to join my discord [Here](https://discord.gg/3
 * This is the Discord Public Test Build and is made by Discord themselves.
 * You will not get banned for using the PTB, Nor is it a virus.
 * You will need version 0.0.51
+* Version 0.0.51 is avilable [here](https://github.com/portapps/discord-ptb-portable/releases/tag/0.0.51-7)
 
 
 
