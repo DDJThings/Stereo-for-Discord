@@ -36,6 +36,10 @@ If you need any support feel free to join my discord [Here](https://discord.gg/4
 
 #
 
+### After BDD Is installed, run your new DiscordPTB.exe. 
+
+#
+
 ### Next Steps:
 * Open your **User Settings** (the cog next to your name),
 * Update your voice settings to the following:
