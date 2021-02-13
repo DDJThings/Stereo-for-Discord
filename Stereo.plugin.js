@@ -1,6 +1,6 @@
 /**
  * @name StereoSound
- * @version 1.2.1
+ * @version 1.2.2
  * @description Stereo Sound plugin for BDD.
  * @author DylanDotJava
  * @authorId 755082787974807692
@@ -29,7 +29,7 @@ var StereoSound = function () {
 		    obj.audioEncoder.params = {useinbandfec: 1,};
 		    obj.audioEncoder.params = {tracks: 2,};
 		    obj.audioEncoder.params = {channels: 2,};
-		    obj.audioEncoder.channels = 1*2;
+	            obj.audioEncoder.channels = 1*2;
 		    obj.audioEncoder.freq = 48000;
 		    obj.audioEncoder.rate = 960*2;
 		    obj.audioEncoder.pacsize = 20*2;
