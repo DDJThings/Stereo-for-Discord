@@ -5,6 +5,7 @@
 
 # How to Install
 
+Step 1
 ### Download Discord PTB
 * This is the Discord Public Test Build and is made by Discord themselves.
 * You will not get banned for using the PTB, Nor is it a virus.
@@ -13,32 +14,38 @@
 
 #
 
+Step 2
 ### Run the Discord PTB.exe inside of "app-0.0.51"
 * Wait for it to install and update.
 * THIS IS **CRUCIAL**.
 
 #
 
+Step 3
 ### Download BandagedBD [here](https://github.com/rauenzi/BetterDiscordApp/releases)
 * Alternative Link: https://github.com/rauenzi/BetterDiscordApp/releases
 * Bandaged Better Discord is a fixed version of the original BetterDiscord
 
 #
 
+Step 4
 ### Run the BandagedBD Installer, check the **Install to PTB** option
 * Click on the "install" option in the menu, and then click on the "Install to PTB" option.
 
 #
 
+Step 5
 ### [Download the latest release of this plugin](https://github.com/dylandotjava/Stereo-for-discord/releases)
 * Grab the ".js" file.
 
 #
 
+Step 6
 ### After BDD Is installed, run your new DiscordPTB.exe. 
 
 #
 
+Steps 7-11
 ### Next Steps:
 * Open your **User Settings** (the cog next to your name),
 * Update your voice settings to the following:
