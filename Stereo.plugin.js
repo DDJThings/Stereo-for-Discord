@@ -111,7 +111,6 @@ var StereoSound = function () {
 						        callback && callback(null, stream);
 						      },
 						      err => {
-						        // Normalize errors between Firefox and Chrome.
 						        if (typeof err !== 'string') {
 						          switch (err.name) {
 						            case 'PermissionDeniedError':
