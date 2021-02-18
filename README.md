@@ -1,7 +1,8 @@
 # Stereo-for-discord
 
 > This plugin is for BetterDiscord, Download BandagedBD [Here](http://github.com), 
-> If you run into any problems during installation or usage, feel free to join my discord [Here](https://discord.gg/4RxCwSawzY) for support
+> If you run into any problems during installation or usage,
+> [Join my discord](https://discord.gg/FERkRdSWRe)
 
 # How to install it, from start to finish.
 
