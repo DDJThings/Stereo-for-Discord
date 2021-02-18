@@ -2,9 +2,9 @@
 
 ## == IMPORTANT ==
 
-> This plugin is for BetterDiscord, Download BandagedBD [Here](http://github.com), 
-> If you run into any problems during installation or usage,
-> [Join my discord](https://discord.gg/FERkRdSWRe)
+### This plugin is for BetterDiscord, Download BandagedBD [Here](http://github.com), 
+### If you run into any problems during installation or usage,
+### [Join my discord](https://discord.gg/FERkRdSWRe)
 
 # How to install it, from start to finish.
 
