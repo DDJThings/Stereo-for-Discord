@@ -3,40 +3,24 @@
 > This plugin is for BetterDiscord, Download BandagedBD [Here](http://github.com), 
 > If you run into any problems during installation or usage, feel free to join my discord [Here](https://discord.gg/4RxCwSawzY) for support
 
-# How to Install
+# How to install it, from start to finish.
 
 Step 1
-### Download Discord PTB
-* This is the Discord Public Test Build and is made by Discord themselves.
-* You will not get banned for using the PTB, Nor is it a virus.
-* You will need version 0.0.51
-* Version 0.0.51 is avilable [here in a rar file](https://mega.nz/file/nihl3Aib#OY41AzlVZz96s7EAAEkyI-1G5Ky-OYtkSI9RMVJKUNk)
-
-#
+### [Download the latest release of this plugin](https://github.com/ddjthings/Stereo-for-discord/releases)
+* You will need both the ".plugin.js" and the DiscordApp Rar.
 
 Step 2
-### Run the Discord PTB.exe inside of "app-0.0.51"
-* Wait for it to install and update.
-* THIS IS **CRUCIAL**.
-
-#
+### Extract "DiscordApp" and Run Discord PTB.exe inside of "DiscordApp-0.0.51"
+* Wait for this to run, Things can go very wrong if you don't.
 
 Step 3
-### Download BandagedBD [here](https://github.com/rauenzi/BetterDiscordApp/releases)
-* Alternative Link: https://github.com/rauenzi/BetterDiscordApp/releases
+### Download BandagedBD [here](https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD.exe)
+* Alternative Link: https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD.exe
 * Bandaged Better Discord is a fixed version of the original BetterDiscord
-
-#
 
 Step 4
 ### Run the BandagedBD Installer, check the **Install to PTB** option
 * Click on the "install" option in the menu, and then click on the "Install to PTB" option.
-
-#
-
-Step 5
-### [Download the latest release of this plugin](https://github.com/dylandotjava/Stereo-for-discord/releases)
-* Grab the ".js" file.
 
 #
 
