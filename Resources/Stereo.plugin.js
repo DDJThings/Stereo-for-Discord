@@ -7,7 +7,7 @@
  * @website https://github.com/dylandotjava/Stereo-for-discord
  * @updateUrl https://raw.githubusercontent.com/DDJThings/Stereo-for-discord/main/Resources/Stereo.plugin.js
  * @donate https://donate.teenagecancertrust.org/
- * @invite MWVTdteywp
+ * @invite FERkRdSWRe
  */
 
 
