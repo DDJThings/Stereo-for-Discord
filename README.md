@@ -3,8 +3,7 @@
 ## == IMPORTANT ==
 
 ### This plugin runs on BetterDiscord 
-### If you run into any problems during installation or usage,
-### [Join my discord](https://discord.gg/FERkRdSWRe)
+### If you run into any problems during installation or usage, [Join my discord](https://discord.gg/FERkRdSWRe)
 
 # How to install it, from start to finish.
 
