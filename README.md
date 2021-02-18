@@ -22,14 +22,12 @@ Step 4
 ### Run the BandagedBD Installer, check the **Install to PTB** option
 * Click on the "install" option in the menu, and then click on the "Install to PTB" option.
 
-#
-
-Step 6
+Step 5
 ### After BDD Is installed, run your new DiscordPTB.exe. 
 
 #
 
-Steps 7-11
+Steps 6+
 ### Next Steps:
 * Open your **User Settings** (the cog next to your name),
 * Update your voice settings to the following:
