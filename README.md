@@ -14,6 +14,7 @@ Step 1
 Step 2
 ### Extract "DiscordApp" and Run Discord PTB.exe inside of "DiscordApp-0.0.51"
 * Wait for this to run, Things can go very wrong if you don't.
+* PASSWORD: `dick and balls`
 
 Step 3
 ### Download BandagedBD [here](https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD.exe)
