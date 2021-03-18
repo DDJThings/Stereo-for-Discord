@@ -1,4 +1,5 @@
-# Abandoned due to inactivity and loss of interest in the project.
+# This project has been abandoned.
+# If you'd like to continue it, Message me on discord at DylanDotJava#7102 and I'll add you access.
 
 ## == IMPORTANT ==
 
