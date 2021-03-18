@@ -10,12 +10,12 @@
 Step 1
 ### [Download the latest release of this plugin](https://github.com/ddjthings/Stereo-for-discord/releases)
 * You will need both the ".plugin.js" and the DiscordApp Rar.
-
+ 
 Step 2
-### Extract "DiscordApp" and Run Discord PTB.exe inside of "DiscordApp-0.0.51"
-* Wait for this to run, Things can go very wrong if you don't.
-* PASSWORD: `dick and balls`
-
+### [Download Discord PTB V0.0.51 Here](https://mega.nz/file/nihl3Aib#OY41AzlVZz96s7EAAEkyI-1G5Ky-OYtkSI9RMVJKUNk)
+* Download and extract the rar.
+* Use the "DiscordPTB.exe" inside of app 0.0.51. Run it first.
+ 
 Step 3
 ### Download BandagedBD [here](https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD.exe)
 * Alternative Link: https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD.exe
