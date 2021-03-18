@@ -1,4 +1,4 @@
-# Stereo-for-discord
+# Abandoned due to inactivity and loss of interest in the project.
 
 ## == IMPORTANT ==
 
