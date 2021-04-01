@@ -1,7 +1,3 @@
-# This project has been abandoned.
-# If you'd like to continue it, Message me on discord at DylanDotJava#7102 and I'll add you access.
-# Without further ado, the latest release is fully functional.
-
 ## == IMPORTANT ==
 
 ### This plugin runs on BetterDiscord 
@@ -19,8 +15,8 @@ Step 2
 * Use the "DiscordPTB.exe" inside of app 0.0.51. Run it first.
  
 Step 3
-### Download BandagedBD [here](https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD.exe)
-* Alternative Link: https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD.exe
+### Download BandagedBD [here](https://github.com/rauenzi/BBDInstaller/releases/)
+* Alternative Link: (https://github.com/rauenzi/BBDInstaller/releases/)
 * Bandaged Better Discord is a fixed version of the original BetterDiscord
 
 Step 4
