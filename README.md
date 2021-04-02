@@ -8,7 +8,7 @@ The community of "audio guys" on discord is a complete and utter overflowing toi
 <br>
 Oh and FYI, Nothing below is functional anymore.<br>
 Don't ask for support in my discord 'cause YOU AINT GETTIN IT
-
+##
 ## == IMPORTANT ==
 
 ### This plugin runs on BetterDiscord 
