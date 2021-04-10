@@ -1,5 +1,6 @@
 
-Discord has fully patched this plugin and the modules that this plugin took advantage of, That's a win and a loss in my books<br>
+# Discord has fully patched this plugin and the modules that this plugin took advantage of, That's a win and a loss in my books. Congratulations to the developers of discord!
+
 ##
 ## == IMPORTANT ==
 
