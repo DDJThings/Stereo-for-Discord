@@ -1,13 +1,5 @@
 
-First and foremost, I'm impressed. Very impressed.<br>
-This project has been abandoned for a while but discord has properly patched the moficiation of their audio,<br>
-to the point where applications like ripcord are completely non functional now.<br>		 
-I have nothing but respect to the discord developers who probably accidentally fixed it.<br>		 
-I'm not continuing the plugin, nor am i going to work on a fixed version.<br>		 
-The community of "audio guys" on discord is a complete and utter overflowing toilet of ego and toxicity.<br>		
-<br>
-Oh and FYI, Nothing below is functional anymore.<br>
-Don't ask for support in my discord 'cause YOU AINT GETTIN IT
+Discord has fully patched this plugin and the modules that this plugin took advantage of, That's a win and a loss in my books<br>
 ##
 ## == IMPORTANT ==
 
