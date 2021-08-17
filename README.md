@@ -1,6 +1,4 @@
-## My plugin no longer works and hasn't worked for months,
-## I recommend you instead download HallowBeatbox's plugin that
-## was uploaded into the latest release.
+## My plugin no longer works and hasn't worked for months, I recommend you instead download HallowBeatbox's plugin that was uploaded into the latest release.
 ##
 ## Please follow all of the steps as regular, just use his plugin instead.
 ## == IMPORTANT ==
