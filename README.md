@@ -1,11 +1,11 @@
-
-# Discord has fully patched this plugin and the modules that this plugin took advantage of, That's a win and a loss in my books. Congratulations to the developers of discord!
-
+## My plugin no longer works and hasn't worked for months,
+## I recommend you instead download HallowBeatbox's plugin that
+## was uploaded into the latest release.
 ##
+## Please follow all of the steps as regular, just use his plugin instead.
 ## == IMPORTANT ==
 
 ### This plugin runs on BetterDiscord 
-### If you run into any problems during installation or usage, [Join my discord](https://discord.gg/FERkRdSWRe)
 
 # How to install it, from start to finish.
 
