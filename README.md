@@ -1,7 +1,8 @@
 ## DISCONTINUED
 This plugin no longer works and hasn't worked for many builds of discord.  
-I am no longer actively supporting this plugin, so please do not contact me if you encounter any issues.
-If you are seeking a replacement that gives you the ability to stream high definition audio, I recommend [Maestro](https://www.maestro.io) or [Dacast](https://www.dacast.com). Or, if you want to set up an audio-only stream, check out [this article](https://radio.co/blog/internet-radio-hosting) that explains (in detail) the pros, cons and how-to's of the web-radio space.
+I am no longer actively supporting this plugin, so please do not contact me if you encounter any issues.  
+If you are seeking a replacement that gives you the ability to stream high definition audio, I recommend [Maestro](https://www.maestro.io) or [Dacast](https://www.dacast.com).  
+Or, if you want to set up an audio-only stream, check out [this article](https://radio.co/blog/internet-radio-hosting) that explains (in detail) the pros, cons and how-to's of the web-radio space.
 
 ## == IMPORTANT ==
 
